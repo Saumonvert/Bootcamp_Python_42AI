@@ -1,0 +1,4 @@
+help("modules") (in python prompt)
+pip list
+pip show numpy
+pip search tesseract
